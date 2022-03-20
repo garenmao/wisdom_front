@@ -1,0 +1,23 @@
+{
+  "id": "3243228",
+  "name": "wisdom",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6978125",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "28208709",
+      "name": "点赞",
+      "font_class": "dianzan-lanse",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
